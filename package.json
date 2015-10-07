@@ -4,7 +4,7 @@
   "author": "mjurczyk",
   "keywords": [
     "hubot",
-    "flowdock",
+    "flowdock-teamplayer",
     "adapter"
   ],
   "description": "A Flowdock adapter for hubot with additional @team/@all capabilities",
