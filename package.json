@@ -1,0 +1,17 @@
+{
+  "name": "hubot-flowdock-teamplayer",
+  "version": "0.7.6a",
+  "author": "mjurczyk",
+  "keywords": [
+    "hubot",
+    "flowdock",
+    "adapter"
+  ],
+  "description": "A Flowdock adapter for hubot with additional @team/@all capabilities",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
